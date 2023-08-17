@@ -33,7 +33,7 @@ SNo | Topic | Link | Date Completed |
 
 SNo | Topic | Link | Date Completed |
 ----|-------|------|----------------|
-1 | Difference between Structure and Class | [view](https://www.geeksforgeeks.org/structure-vs-class-in-cpp/) | not done |
+1 | Difference between Structure and Class | [view](https://www.geeksforgeeks.org/structure-vs-class-in-cpp/) | 17/08 |
 2 | Similarities between Structure and Class | [view](https://practice.geeksforgeeks.org/problems/what-are-similarities-between-a-class-and-a-structure) | not done |
 3 | When to use Structure over Class | homework | not done | 
 4 | Access Modifiers | [view](https://www.javatpoint.com/access-modifiers) | not done |
